@@ -81,12 +81,12 @@ html,
 
       @media screen and (max-width: 650px) {
         .thirukkural {
-          font-size: 0.7rem;
+          font-size: 10px;
         }
       }
 
       @media screen and (max-width: 500px) {
         .thirukkural {
-          font-size: 0.7rem;
+          font-size: 10px;
         }
       }

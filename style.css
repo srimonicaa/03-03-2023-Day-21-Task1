@@ -81,7 +81,7 @@ html,
 
       @media screen and (max-width: 690px) {
         .thirukkural {
-          font-size: 1.4rem;
+          font-size: 0.7rem;
         }
          .eng_exp {
         font-size: 1.2rem;
@@ -96,7 +96,7 @@ html,
 
       @media screen and (max-width: 690px) {
         .thirukkural {
-          font-size: 1.4rem;
+          font-size: 0.7rem;
         }
         .eng_exp {
         font-size: 1.2rem;

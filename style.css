@@ -79,14 +79,32 @@ html,
         font-size: 1.2rem;
       }
 
-      @media screen and (max-width: 700px) {
+      @media screen and (max-width: 690px) {
         .thirukkural {
-          font-size: 80px;
+          font-size: 1.4rem;
+        }
+         .eng_exp {
+        font-size: 1.2rem;
+      }
+         .tam_exp {
+        font-size: 1.2rem;
+      }
+         .author {
+        font-size: 1rem;
         }
       }
 
-      @media screen and (max-width: 700px) {
+      @media screen and (max-width: 690px) {
         .thirukkural {
-          font-size: 80px;
+          font-size: 1.4rem;
         }
+        .eng_exp {
+        font-size: 1.2rem;
+      }
+         .tam_exp {
+        font-size: 1.2rem;
+      }
+         .author {
+         font-size: 1rem;
+            }
       }

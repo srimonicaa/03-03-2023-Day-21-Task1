@@ -1,0 +1,92 @@
+html,
+      body {
+        margin: 0px auto;
+        max-width: 980px;
+        width: 100%;
+      }
+
+      h1, h2, h3, h4, h5, h6, p {
+        margin: 0px;
+        text-align: start;
+      }
+
+      .ancient_paper {
+        position: relative;
+        background-image: url("https://wallpaperaccess.com/full/781373.jpg");
+        width: 100%;
+        height: 150vh;
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+      }
+
+      .banner {
+        width: 100%;
+        height: 150px;
+      }
+
+      .center {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        height: calc(150vh - 300px);
+        padding: 50px;
+      }
+
+      .section, .section2 {
+        position: center;
+        font-size: 2.2rem;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+      }
+
+      .thirukkural {
+        font-size: 1.2rem;
+        color: black;
+      }
+
+      .author {
+        text-align: end;
+        font-size: 20px;
+      }
+
+      .clearfix-20 {
+        height: 20px;
+      }
+
+      .fab {
+        position: absolute;
+        bottom: 30px;
+        right: 30px;
+        width: 40px;
+        height: 40px;
+        background: #D8AD80;
+        outline: none;
+        border: none;
+        border-radius: 50%;
+        background-size: contain;
+        background-image: url("https://icon-library.com/images/next-button-icon/next-button-icon-5.jpg");
+      }
+
+      p {
+        font-size: 1rem;
+      }
+
+      .eng_exp {
+        font-size: 1.2rem;
+      }
+
+      @media screen and (max-width: 650px) {
+        .thirukkural {
+          font-size: 1.2rem;
+        }
+      }
+
+      @media screen and (max-width: 500px) {
+        .thirukkural {
+          font-size: 1.2rem;
+        }
+      }
